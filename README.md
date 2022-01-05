@@ -2,5 +2,6 @@
 # sum of two numbers
 a=int(input("enter the value of a"))
 b=int(input("enter the value of b"))
-c=a+b
+d=int(input("enter the value of d"))
+c=a+b+d
 print(c)
